@@ -1,0 +1,46 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "GroupD Question Bank — question file",
+  "description": "Every data file is a JSON array of question objects.",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "additionalProperties": false,
+    "required": [
+      "id", "question_en", "question_hi", "options_en", "options_hi",
+      "answer_letter", "answer_index", "subject", "topic", "difficulty",
+      "type", "source", "exam", "date_shift", "explanation", "fingerprint", "source_model"
+    ],
+    "properties": {
+      "id": {
+        "type": ["string", "null"],
+        "pattern": "^[A-Z0-9]+(-[A-Z0-9]+)*-[0-9]{5}$",
+        "description": "Final ID, assigned centrally at merge time. null before merge."
+      },
+      "question_en": { "type": "string", "minLength": 5 },
+      "question_hi": { "type": "string", "minLength": 5 },
+      "options_en": {
+        "type": "array", "items": { "type": "string", "minLength": 1 },
+        "minItems": 4, "maxItems": 4
+      },
+      "options_hi": {
+        "type": "array", "items": { "type": "string", "minLength": 1 },
+        "minItems": 4, "maxItems": 4
+      },
+      "answer_letter": { "enum": ["A", "B", "C", "D"] },
+      "answer_index": { "type": "integer", "minimum": 0, "maximum": 3 },
+      "subject": {
+        "enum": ["haryana-gk", "general-awareness", "general-science", "maths", "reasoning", "hindi", "english"]
+      },
+      "topic": { "type": "string" },
+      "difficulty": { "enum": ["easy", "medium", "hard"] },
+      "type": { "enum": ["pyq", "practice"] },
+      "source": { "type": "string" },
+      "exam": { "type": ["string", "null"] },
+      "date_shift": { "type": ["string", "null"] },
+      "explanation": { "type": "string" },
+      "fingerprint": { "type": "string", "minLength": 5 },
+      "source_model": { "type": "string" }
+    }
+  }
+}
