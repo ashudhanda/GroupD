@@ -755,10 +755,10 @@
       "R is the father-in-law of P."
     ],
     "options_hi": [
-      "R, Q के पिता हैं。",
+      "R, Q के पिता हैं।",
       "S, Q का भतीजा है।",
       "S, P का पुत्र है।",
-      "R, P के ससुर हैं।"
+      "R, P के ससुर हैं。"
     ],
     "answer_letter": "B",
     "answer_index": 1,
@@ -833,7 +833,7 @@
   {
     "id": "PYQ-CD23-00140",
     "question_en": "Priyanka's birthday is on the third Friday of a month. The fourth day of the same month is the first Monday of the month. What is the date of Priyanka's birthday?",
-    "question_hi": "प्रियंका का जन्मदिन किसी महीने के तीसरे शुक्रवार को है। उसी महीने का चौथा दिन महीने का पहला सोमवार है। प्रियंका के जन्मदिन का दिनांक क्या है ?",
+    "question_hi": "प्रियंका का जन्मदिन किसी महीने के तीसरे शुक्रवार को है। उसी महीने का चौथा दिन महीने का पहला सोमवार है। प्रियंका का जन्मदिन का दिनांक क्या है ?",
     "options_en": ["22", "15", "23", "21"],
     "options_hi": ["22", "15", "23", "21"],
     "answer_letter": "B",
