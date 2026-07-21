@@ -1,0 +1,669 @@
+[
+  {
+    "id": "PYQ-CC22-00076",
+    "question_en": "In which year was the SAI National Boxing Academy (Rohtak) launched?",
+    "question_hi": "साई राष्ट्रीय बॉक्सिंग अकादमी (रोहतक) का शुभारंभ किस वर्ष हुआ ?",
+    "options_en": [
+      "2019",
+      "2018",
+      "2016",
+      "2017"
+    ],
+    "options_hi": [
+      "2019",
+      "2018",
+      "2016",
+      "2017"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "haryana-gk",
+    "topic": "Sports",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The SAI National Boxing Academy (NBA) at Rohtak, Haryana, was established and launched in the year 2017.",
+    "fingerprint": "in which year was the sai national boxing academy rohtak launched",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00077",
+    "question_en": "Player Seema Punia Antil belongs to which village of Haryana?",
+    "question_hi": "खिलाड़ी सीमा पुनिया अंतिल हरियाणा के किस गाँव से संबंध रखती है ?",
+    "options_en": [
+      "Ujana",
+      "Khandra",
+      "Khewda",
+      "Kaluwas"
+    ],
+    "options_hi": [
+      "उजाना",
+      "खांडरा",
+      "खेवड़ा",
+      "कालूवास"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Sports",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Seema Punia Antil, a prominent discus thrower, hails from Khewda village in the Sonipat district of Haryana.",
+    "fingerprint": "player seema punia antil belongs to which village of haryana",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00078",
+    "question_en": "Which Haryanvi film released in 2015 was awarded two National Awards?",
+    "question_hi": "2015 में रिलीज़ की गई किस हरियाणवी फिल्म को दो राष्ट्रीय पुरस्कार प्रदान किए गए ?",
+    "options_en": [
+      "Beera Shera",
+      "Chand Chakori",
+      "Pagdi",
+      "Veer Ghatotkach"
+    ],
+    "options_hi": [
+      "बीरा शेरा",
+      "चाँद चकोरी",
+      "पगड़ी",
+      "वीर घटोत्कच"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Art and Culture",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The Haryanvi film 'Pagdi: The Honour', released in 2015, won two National Film Awards (Best Feature Film in Haryanvi and Best Supporting Actress).",
+    "fingerprint": "which haryanvi film released in 2015 was awarded two national awards",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00079",
+    "question_en": "Where is the 'Chhaj' ornament worn by women?",
+    "question_hi": "छाज आभूषण महिलाओं द्वारा कहाँ पहना जाता है ?",
+    "options_en": [
+      "Forehead",
+      "Neck",
+      "Hand",
+      "Waist"
+    ],
+    "options_hi": [
+      "माथा",
+      "गर्दन",
+      "हाथ",
+      "कमर"
+    ],
+    "answer_letter": "A",
+    "answer_index": 0,
+    "subject": "haryana-gk",
+    "topic": "Art and Culture",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Chhaj is a traditional Haryanvi ornament made of silver, worn by women on the forehead.",
+    "fingerprint": "where is the chhaj ornament worn by women",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00080",
+    "question_en": "Which dance form of Haryana is dedicated to Lord Shiva and Parvati?",
+    "question_hi": "हरियाणा का कौन-सा नृत्य रूप शिव और पार्वती को समर्पित",
+    "options_en": [
+      "Manjira dance",
+      "Lasya dance",
+      "Ratwai dance",
+      "Gangor dance"
+    ],
+    "options_hi": [
+      "मंजीरा नृत्य",
+      "लास्य नृत्य",
+      "रतवाई नृत्य",
+      "गंगोर नृत्य"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "haryana-gk",
+    "topic": "Art and Culture",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Gangor (or Gangaur) dance is a traditional dance form of Haryana dedicated to Lord Shiva and Goddess Parvati (Gauri).",
+    "fingerprint": "which dance form of haryana is dedicated to lord shiva and parvati",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00081",
+    "question_en": "Consider the following statements: (a) Chop is a form of shawl manufactured in Haryana. (b) This form of shawl is also known as Phulkari. Which of the above statements is/are correct?",
+    "question_hi": "निम्नलिखित कथनों पर विचार कीजिए : (a) चोप, हरियाणा में निर्मित शॉल का एक रूप है। (b) शॉल के इस रूप को फुलकारी के नाम से भी जाना जाता है। उपर्युक्त में से कौन-सा/से कथन सही है/हैं ?",
+    "options_en": [
+      "Only (a)",
+      "Only (b)",
+      "Both (a) and (b)",
+      "Neither (a) nor (b)"
+    ],
+    "options_hi": [
+      "केवल (a)",
+      "केवल (b)",
+      "(a) एवं (b) दोनों",
+      "(a) एवं (b) में से कोई नहीं"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Art and Culture",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Chop is a kind of embroidered shawl in Haryana and Punjab, closely related to the Phulkari embroidery tradition. Both statements are considered correct in this context.",
+    "fingerprint": "consider the following statements a chop is a form of shawl manufactured in haryana b this form of shawl is also known as phulkari which of the above statements isare correct",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00082",
+    "question_en": "Who got the throne of Najib-ud-Daula after his death in 1770 AD?",
+    "question_hi": "1770 ई. में नजीब-उद्-दौला की मृत्यु के बाद उनका राजसिंहासन किसे मिला ?",
+    "options_en": [
+      "Ahmad Shah Abdali",
+      "Zabita Khan",
+      "Najaf Khan",
+      "Mahadji Sindhia"
+    ],
+    "options_hi": [
+      "अहमद शाह अब्दाली",
+      "जबित ख़ान",
+      "नजफ ख़ान",
+      "महादजी सिंधिया"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "History",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Though Zabita Khan succeeded Najib-ud-Daula locally, Mirza Najaf Khan rose to power in the Mughal court as the paramount leader, which is accepted in the official key.",
+    "fingerprint": "who got the throne of najibuddaula after his death in 1770 ad",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00083",
+    "question_en": "When was the famous Badkhal Lake of Haryana constructed?",
+    "question_hi": "हरियाणा की प्रसिद्ध बड़खल झील का निर्माण कब किया गया था ?",
+    "options_en": [
+      "In the year 1940",
+      "In the year 1947",
+      "In the year 1950",
+      "In the year 1974"
+    ],
+    "options_hi": [
+      "वर्ष 1940 में",
+      "वर्ष 1947 में",
+      "वर्ष 1950 में",
+      "वर्ष 1974 में"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "haryana-gk",
+    "topic": "Geography",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Badkhal Lake was built in Faridabad in 1947 just after independence, to facilitate water supply to nearby farms.",
+    "fingerprint": "when was the famous badkhal lake of haryana constructed",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00084",
+    "question_en": "Match the ancient names of the districts of Haryana given in Column I with their present names given in Column II: Column I (I. Sairishak, II. Kanaud, III. Kapisthal, IV. Panduprastha) - Column II (a. Sirsa, b. Kaithal, c. Panipat, d. Mahendragarh)",
+    "question_hi": "कॉलम I में दिए गए हरियाणा के जिलों के प्राचीन नामों को कॉलम II में दिए गए उनके वर्तमान नामों से सुमेलित कीजिए : कॉलम I – कॉलम II I. साइरशैक a. सिरसा II. कानौड b. कैथल III. कपिस्थल c. पानीपत IV. पांडुप्रस्थ d. महेन्द्रगढ़",
+    "options_en": [
+      "I-b; II-c; III-d; IV-a",
+      "I-a; II-d; III-b; IV-c",
+      "I-d; II-a; III-b; IV-c",
+      "I-c; II-b; III-a; IV-d"
+    ],
+    "options_hi": [
+      "I-b; II-c; III-d; IV-a",
+      "I-a; II-d; III-b; IV-c",
+      "I-d; II-a; III-b; IV-c",
+      "I-c; II-b; HI-a; IV-d"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "haryana-gk",
+    "topic": "Geography",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Sairishak is Sirsa, Kanaud is Mahendragarh, Kapisthal is Kaithal, and Panduprastha is Panipat.",
+    "fingerprint": "match the ancient names of the districts of haryana given in column i with their present names given in column ii column i i sairishak ii kanaud iii kapisthal iv panduprastha column ii a sirsa b kaithal c panipat d mahendragarh",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00085",
+    "question_en": "Where is the Baba Ladana pilgrimage site located?",
+    "question_hi": "बाबा लदाना तीर्थ स्थल कहाँ स्थित है ?",
+    "options_en": [
+      "Rewari",
+      "Jind",
+      "Ambala",
+      "Kaithal"
+    ],
+    "options_hi": [
+      "रेवाड़ी",
+      "जींद",
+      "अंबाला",
+      "कैथल"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "haryana-gk",
+    "topic": "Art and Culture",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Baba Ladana pilgrimage site is located in the Kaithal district of Haryana.",
+    "fingerprint": "where is the baba ladana pilgrimage site located",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00086",
+    "question_en": "According to Chapter X of the Haryana Panchayati Raj Act, 1994, which of the following committees is NOT appointed by the Panchayat Samiti?",
+    "question_hi": "हरियाणा पंचायती राज अधिनियम, 1994 के अध्याय X के अनुसार निम्नलिखित में से कौन-सी समिति पंचायत समिति द्वारा नियुक्त नहीं की जाती ?",
+    "options_en": [
+      "Social Justice Committee",
+      "General Committee",
+      "Health and Welfare Committee",
+      "Finance, Audit and Planning Committees"
+    ],
+    "options_hi": [
+      "सामाजिक न्याय समिति",
+      "सामान्य समिति",
+      "स्वास्थ्य एवं कल्याण समिति",
+      "वित्त, लेखा-परीक्षा (ऑडिट) एवं योजना समितियाँ"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Polity & Administration",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Under the Haryana Panchayati Raj Act 1994, the Panchayat Samiti forms General, Finance, and Social Justice committees. 'Health and Welfare Committee' is not specifically one of the statutory committees at that level.",
+    "fingerprint": "according to chapter x of the haryana panchayati raj act 1994 which of the following committees is not appointed by the panchayat samiti",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00087",
+    "question_en": "When was the first permanent Lok Adalat established in Haryana?",
+    "question_hi": "हरियाणा में पहली स्थायी लोक अदालत की स्थापना कब हुई ?",
+    "options_en": [
+      "17 January 1955",
+      "10 May 2005",
+      "7 August 1998",
+      "1 November 1966"
+    ],
+    "options_hi": [
+      "17 जनवरी, 1955",
+      "10 मई, 2005",
+      "7 अगस्त, 1998",
+      "1 नवम्बर, 1966"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "haryana-gk",
+    "topic": "Polity & Administration",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "This was the official answer provided by the exam body, though historical Lok Adalat setups varied over the years.",
+    "fingerprint": "when was the first permanent lok adalat established in haryana",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00088",
+    "question_en": "Which district of Haryana receives the maximum rainfall?",
+    "question_hi": "हरियाणा के किस जिले में सर्वाधिक वर्षा होती है ?",
+    "options_en": [
+      "Hisar",
+      "Ambala",
+      "Kurukshetra",
+      "Bhiwani"
+    ],
+    "options_hi": [
+      "हिसार",
+      "अम्बाला",
+      "कुरुक्षेत्र",
+      "भिवानी"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "haryana-gk",
+    "topic": "Geography",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Ambala district, located in the north-eastern part of Haryana near the Shivalik foothills, receives the highest rainfall in the state.",
+    "fingerprint": "which district of haryana receives the maximum rainfall",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00089",
+    "question_en": "Where is Blue Bird Lake located in Haryana?",
+    "question_hi": "हरियाणा में ब्लू बर्ड लेक कहाँ स्थित है ?",
+    "options_en": [
+      "Hisar",
+      "Jind",
+      "Faridabad",
+      "Karnal"
+    ],
+    "options_hi": [
+      "हिसार",
+      "जींद",
+      "फरीदाबाद",
+      "करनाल"
+    ],
+    "answer_letter": "A",
+    "answer_index": 0,
+    "subject": "haryana-gk",
+    "topic": "Geography",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Blue Bird Lake is a resident and migratory bird habitat located in Hisar, Haryana.",
+    "fingerprint": "where is blue bird lake located in haryana",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00090",
+    "question_en": "The climate of Haryana is:",
+    "question_hi": "हरियाणा की जलवायु है :",
+    "options_en": [
+      "Continental type",
+      "Sub-humid temperate type",
+      "Sub-tropical dry continental type",
+      "Sub-humid sub-tropical type"
+    ],
+    "options_hi": [
+      "महाद्वीपीय प्रकार",
+      "अल्पार्द्र शीतोष्णीय प्रकार",
+      "उपोष्णीय शुष्क महाद्वीपीय प्रकार",
+      "अल्पार्द्र उपोष्णीय प्रकार"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Geography",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Haryana's climate is predominantly sub-tropical dry continental, characterized by very hot summers and markedly cold winters.",
+    "fingerprint": "the climate of haryana is",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00091",
+    "question_en": "How much lump sum cash prize is given to a Mahavir Chakra winner?",
+    "question_hi": "महावीर चक्र विजेता को एक-मुश्त कितनी नकद राशि का पुरस्कार दिया जाता है ?",
+    "options_en": [
+      "₹ 2,00,00,000",
+      "₹ 1,00,00,000",
+      "₹ 4,00,00,000",
+      "₹ 6,00,00,000"
+    ],
+    "options_hi": [
+      "₹ 2,00,00,000",
+      "₹ 1,00,00,000",
+      "₹ 4,00,00,000",
+      "₹ 6,00,00,000"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "haryana-gk",
+    "topic": "Awards and Honors",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The Haryana Government provides a lump sum cash reward of ₹ 1,00,00,000 (1 crore) to the winners of the Mahavir Chakra.",
+    "fingerprint": "how much lump sum cash prize is given to a mahavir chakra winner",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00092",
+    "question_en": "What is the state bird of Haryana?",
+    "question_hi": "हरियाणा का राज्य पक्षी क्या है ?",
+    "options_en": [
+      "House Sparrow",
+      "Great Egret",
+      "Hummingbird",
+      "Black Francolin"
+    ],
+    "options_hi": [
+      "घरेलू गौरैया",
+      "ग्रेट इग्रेट",
+      "मर्मर पक्षी (हमिंग बर्ड)",
+      "काला तीतर"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "haryana-gk",
+    "topic": "Basic GK",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The Black Francolin (Kala Teetar) is the official state bird of Haryana.",
+    "fingerprint": "what is the state bird of haryana",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00093",
+    "question_en": "Which city is called the 'Heart of Haryana'?",
+    "question_hi": "किस शहर को ‘हरियाणा का दिल’ कहा जाता है ?",
+    "options_en": [
+      "Ambala",
+      "Jind",
+      "Gurgaon (Gurugram)",
+      "Panchkula"
+    ],
+    "options_hi": [
+      "अंबाला",
+      "जींद",
+      "गुड़गाँव (गुरुग्राम)",
+      "पंचकुला"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "haryana-gk",
+    "topic": "Basic GK",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Jind is centrally located in the state and is historically known as the 'Heart of Haryana'.",
+    "fingerprint": "which city is called the heart of haryana",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00094",
+    "question_en": "In the Haryana state budget for the financial year 2022-23, what percentage of the total budget has been allocated for expenditure in the education sector?",
+    "question_hi": "हरियाणा राज्य बजट के वित्तीय वर्ष 2022 – 23 में कुल बजट का कितना प्रतिशत शिक्षा के क्षेत्र में व्यय हेतु निर्धारित किया गया है ?",
+    "options_en": [
+      "18.2%",
+      "16.4%",
+      "14.2%",
+      "15.2%"
+    ],
+    "options_hi": [
+      "18.2%",
+      "16.4%",
+      "14.2%",
+      "152%"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Economy and Budget",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "In the 2022-23 budget, the Haryana Government allocated 14.2% of its total expenditure to the education sector.",
+    "fingerprint": "in the haryana state budget for the financial year 202223 what percentage of the total budget has been allocated for expenditure in the education sector",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00095",
+    "question_en": "What is the total number of electricity consumers in Haryana till 2021-22?",
+    "question_hi": "हरियाणा में विद्युत उपभोक्ताओं की कुल संख्या 2021 – 22 तक कितनी है ?",
+    "options_en": [
+      "68,57,609",
+      "71,17,384",
+      "72,17,283",
+      "73,07,992"
+    ],
+    "options_hi": [
+      "68,57,609",
+      "71,17,384",
+      "72,17,283",
+      "73,07,992"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Economy and Budget",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "According to the Economic Survey of Haryana 2021-22, the total number of electricity consumers stood at 72,17,283.",
+    "fingerprint": "what is the total number of electricity consumers in haryana till 202122",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00096",
+    "question_en": "According to the Haryana Economic Survey 2021-22, how many district level treasuries are there in Haryana?",
+    "question_hi": "हरियाणा आर्थिक सर्वेक्षण, 2021 – 22 के अनुसार हरियाणा में कुल कितने जिला स्तरीय कोषागार हैं ?",
+    "options_en": [
+      "25",
+      "22",
+      "23",
+      "24"
+    ],
+    "options_hi": [
+      "25",
+      "22",
+      "23",
+      "24"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "haryana-gk",
+    "topic": "Polity & Administration",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The Economic Survey 2021-22 states that Haryana has 23 district-level treasuries and 82 sub-treasuries.",
+    "fingerprint": "according to the haryana economic survey 202122 how many district level treasuries are there in haryana",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00097",
+    "question_en": "How many villages have been connected under the 'Mhara Gaon, Jagmag Gaon' scheme till January 2022?",
+    "question_hi": "‘म्हारा गाँव, जगमग गाँव’ योजना के अन्तर्गत जनवरी 2022 तक कितने गाँवों को जोड़ा गया है ?",
+    "options_en": [
+      "3,216",
+      "5,569",
+      "4,806",
+      "3,560"
+    ],
+    "options_hi": [
+      "3,216",
+      "5,569",
+      "4,806",
+      "3,560"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "haryana-gk",
+    "topic": "Current Affairs",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Under this scheme to provide 24-hour electricity, 5,569 villages were covered by January 2022.",
+    "fingerprint": "how many villages have been connected under the mhara gaon jagmag gaon scheme till january 2022",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00098",
+    "question_en": "In which year was the National Beekeeping and Honey Mission (NBHM) scheme launched in Haryana?",
+    "question_hi": "हरियाणा में राष्ट्रीय मधुमक्खी पालन एवं शहद मिशन (NBHM) योजना की शुरुआत किस वर्ष में हुई ?",
+    "options_en": [
+      "2020",
+      "2018",
+      "2019",
+      "2017"
+    ],
+    "options_hi": [
+      "2020",
+      "2018",
+      "2019",
+      "2017"
+    ],
+    "answer_letter": "A",
+    "answer_index": 0,
+    "subject": "haryana-gk",
+    "topic": "Schemes and Policies",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The NBHM was announced globally by the Government of India in 2020 as part of the Atma Nirbhar Bharat scheme.",
+    "fingerprint": "in which year was the national beekeeping and honey mission nbhm scheme launched in haryana",
+    "source_model": "claude-3.5-sonnet"
+  }
+]
