@@ -1,0 +1,727 @@
+[
+  {
+    "id": "PYQ-CC22-00026",
+    "question_en": "Which number will replace 'X' in the following numerical series? 0, 7, 26, X, 124, 215",
+    "question_hi": "निम्नलिखित संख्यात्मक श्रृंखला में ‘X’ के स्थान पर कौन-सी संख्या आएगी ? 0, 7, 26, X, 124, 215",
+    "options_en": [
+      "60",
+      "65",
+      "62",
+      "63"
+    ],
+    "options_hi": [
+      "60",
+      "65",
+      "62",
+      "63"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "reasoning",
+    "topic": "Number Series",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The series follows the pattern n^3 - 1. 1^3-1=0, 2^3-1=7, 3^3-1=26, 4^3-1=63, 5^3-1=124.",
+    "fingerprint": "which number will replace x in the following numerical series 0 7 26 x 124 215",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00027",
+    "question_en": "Find the word that can be formed using the letters of the given word. SUPERVISION",
+    "question_hi": "नीचे दिए गए शब्द के वर्णों का प्रयोग करके बनाए जा सकने वाले शब्द को ज्ञात कीजिए । SUPERVISION",
+    "options_en": [
+      "RESIGN",
+      "POISON",
+      "REVISIT",
+      "NERVOUS"
+    ],
+    "options_hi": [
+      "RESIGN",
+      "POISON",
+      "REVISIT",
+      "NERVOUS"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "reasoning",
+    "topic": "Word Formation",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The word NERVOUS can be formed using the letters from SUPERVISION.",
+    "fingerprint": "find the word that can be formed using the letters of the given word supervision",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00028",
+    "question_en": "On the occasion of Ajay's birthday, an equal amount of chocolates were to be distributed among 100 children. He could distribute chocolates to only 70 children so that each child got 3 extra chocolates. What was the total number of chocolates available for distribution?",
+    "question_hi": "अजय के जन्मदिन के अवसर पर 100 बच्चों में बराबर मात्रा में चॉकलेट वितरित किए जाने थे । वह केवल 70 बच्चों में चॉकलेट वितरित कर सका ताकि प्रत्येक बच्चे को 3 चॉकलेट अतिरिक्त मिल सकें । वितरण के लिए कुल कितने चॉकलेट उपलब्ध थे ?",
+    "options_en": [
+      "700",
+      "210",
+      "900",
+      "300"
+    ],
+    "options_hi": [
+      "700",
+      "210",
+      "900",
+      "300"
+    ],
+    "answer_letter": "A",
+    "answer_index": 0,
+    "subject": "maths",
+    "topic": "Arithmetic",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Let total chocolates be C. Originally C/100 per child. Now C/70 per child. C/70 - C/100 = 3 => 30C/7000 = 3 => C = 700.",
+    "fingerprint": "on the occasion of ajays birthday an equal amount of chocolates were to be distributed among 100 children he could distribute chocolates to only 70 children so that each child got 3 extra chocolates what was the total number of chocolates available for distribution",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00029",
+    "question_en": "If in a certain code language 'over and above' is written as 'da pa ta' and 'old and beautiful' is written as 'sa na pa', then how will 'and' be written in that code language?",
+    "question_hi": "यदि किसी कूट भाषा में ‘over and above’ को ‘da pa ta’ और ‘old and beautiful’ को ‘sa na pa’ लिखा जाता है, तो उसी कूट भाषा में ‘and’ को किस प्रकार लिखा जाएगा ?",
+    "options_en": [
+      "da",
+      "pa",
+      "ta",
+      "na"
+    ],
+    "options_hi": [
+      "da",
+      "pa",
+      "ta",
+      "na"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "reasoning",
+    "topic": "Coding-Decoding",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The common word in both phrases is 'and', and the common code is 'pa'. Thus, 'and' is coded as 'pa'.",
+    "fingerprint": "if in a certain code language over and above is written as da pa ta and old and beautiful is written as sa na pa then how will and be written in that code language",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00030",
+    "question_en": "Find the odd term which is coded differently.",
+    "question_hi": "भिन्न पद का पता लंगाइए जो अलग तरीके से कूटित किया गया",
+    "options_en": [
+      "HOPE : EHPO",
+      "TUNE : ETNU",
+      "MORE : ERMO",
+      "PLAY : YPAL"
+    ],
+    "options_hi": [
+      "HOPE : EHPO",
+      "TUNE : ETNU",
+      "MORE : ERMO",
+      "PLAY : YPAL"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "reasoning",
+    "topic": "Classification",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "In HOPE -> EHPO, the 1st and 4th letters are swapped, and 2nd and 3rd are swapped. In MORE -> ERMO, it does not follow this exact swap pattern.",
+    "fingerprint": "find the odd term which is coded differently",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00031",
+    "question_en": "The approximate value of the product 0.3333 x 0.25 x 0.499 x 0.125 x 24 is:",
+    "question_hi": "निम्न गुणनफल 0.3333 x 0.25 x 0.499 x 0.125 x 24 का निकटतम मान है :",
+    "options_en": [
+      "1/8",
+      "3/4",
+      "3/8",
+      "2/5"
+    ],
+    "options_hi": [
+      "1/8",
+      "3/4",
+      "3/8",
+      "2/5"
+    ],
+    "answer_letter": "A",
+    "answer_index": 0,
+    "subject": "maths",
+    "topic": "Simplification",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Approximate values: 1/3 * 1/4 * 1/2 * 1/8 * 24. 1/3 * 24 = 8. Then 8 * 1/4 = 2. Then 2 * 1/2 = 1. Then 1 * 1/8 = 1/8.",
+    "fingerprint": "the approximate value of the product 03333 x 025 x 0499 x 0125 x 24 is",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00032",
+    "question_en": "If x is a 3-digit number and y is the number formed by changing the digits of x in any order, then the number (x - y) will always be divisible by:",
+    "question_hi": "यदि x एक 3-अंकीय संख्या है और y, x के अंकों को किसी भी क्रम में बदल कर बनने वाली संख्या हो, तो संख्या (x – y) सदैव विभाजित होगी :",
+    "options_en": [
+      "4",
+      "6",
+      "9",
+      "12"
+    ],
+    "options_hi": [
+      "4 से",
+      "6 से",
+      "9 से",
+      "12 से"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "maths",
+    "topic": "Number System",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The difference between any number and the number formed by rearranging its digits is always a multiple of 9.",
+    "fingerprint": "if x is a 3digit number and y is the number formed by changing the digits of x in any order then the number x y will always be divisible by",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00033",
+    "question_en": "The sum of two numbers is 45 and their difference is 1/9th of the sum. The LCM of the numbers is:",
+    "question_hi": "दो संख्याओं का योगफल 45 है तथा उनका अन्तर योगफल का 9वाँ भाग है । संख्याओं का LCM है :",
+    "options_en": [
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "options_hi": [
+      "100",
+      "150",
+      "200",
+      "250"
+    ],
+    "answer_letter": "A",
+    "answer_index": 0,
+    "subject": "maths",
+    "topic": "LCM & HCF",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Sum = 45. Difference = 45 / 9 = 5. So the numbers are (45+5)/2 = 25 and (45-5)/2 = 20. LCM of 20 and 25 is 100.",
+    "fingerprint": "the sum of two numbers is 45 and their difference is 19th of the sum the lcm of the numbers is",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00034",
+    "question_en": "Three different traffic lights, installed at three different signal points, change after 45 seconds, 75 seconds, and 90 seconds respectively. If all three change together at 7:20:15 hours, then at what time will they change together next time?",
+    "question_hi": "तीन विभिन्न ट्रैफिक लाइट्स, जो तीन विभिन्न सिग्नल बिंदुओं पर लगी हैं, क्रमश: 45 सेकंड, 75 सेकंड तथा 90 सेकंड़ के बाद बदल रही हैं । यदि यह तीनों एक साथ 7 : 20 : 15 घंटे पर बदलती हैं, तो अगली बार यह कितने बजे एक साथ बदलेंगी ?",
+    "options_en": [
+      "7:28:00 hours",
+      "7:27:45 hours",
+      "7:27:30 hours",
+      "7:27:50 hours"
+    ],
+    "options_hi": [
+      "7 : 28 : 00 घंटे",
+      "7 : 27 : 45 घंटे",
+      "7 : 27 : 30 घंटे",
+      "7 : 27 : 50 घंटे"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "maths",
+    "topic": "LCM & HCF",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "LCM of 45, 75, and 90 is 450 seconds. 450 seconds = 7 minutes and 30 seconds. 7:20:15 + 0:07:30 = 7:27:45.",
+    "fingerprint": "three different traffic lights installed at three different signal points change after 45 seconds 75 seconds and 90 seconds respectively if all three change together at 72015 hours then at what time will they change together next time",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00035",
+    "question_en": "If A's income is 10% more than B's income and B's income is 20% less than C's income, then the ratio of the incomes of A, B and C respectively is:",
+    "question_hi": "यदि A की आय, B की आय से 10% अधिक है तथा B की आय, C की आय से 20% कम है, तो क्रमशः A, B तथा की आय में अनुपात है :",
+    "options_en": [
+      "11 : 10 : 8",
+      "22 : 20 : 25",
+      "10 : 9 : 7",
+      "22 : 18 : 25"
+    ],
+    "options_hi": [
+      "11 : 10 : 8",
+      "22 : 20 : 25",
+      "10 : 9 : 7",
+      "22 : 18 : 25"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "maths",
+    "topic": "Ratio and Proportion",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Let C's income be 100. Then B's income is 80. A's income is 10% more than 80, so 88. Ratio A:B:C = 88 : 80 : 100 = 22 : 20 : 25.",
+    "fingerprint": "if as income is 10 more than bs income and bs income is 20 less than cs income then the ratio of the incomes of a b and c respectively is",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00036",
+    "question_en": "Mr. X has some sum of money. He wants to distribute this sum among five laborers in the ratio 1/2 : 1/3 : 1/4 : 1/5 : 1/7. What is the minimum amount he should have so that each laborer gets the amount in whole rupees?",
+    "question_hi": "श्री X के पास कुछ धनराशि है । वह इस धनराशि को पाँच मज़दूरों में ½ : ⅓ : ¼ : ⅕ : 1/7 के अनुपात में बाँटना चाहता है । उसके पास कम-से-कम कितनी धनराशि होनी चाहिए, जिससे प्रत्येक मजदूर को पूर्ण संख्या में रुपए प्राप्त हों ?",
+    "options_en": [
+      "₹ 358",
+      "₹ 420",
+      "₹ 512",
+      "₹ 599"
+    ],
+    "options_hi": [
+      "₹ 358",
+      "₹ 420",
+      "₹ 512",
+      "₹ 599"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "maths",
+    "topic": "Ratio and Proportion",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "LCM of denominators (2, 3, 4, 5, 7) is 420. Multiply each fraction by 420 to get integers: 210, 140, 105, 84, 60. Minimum total amount = 210 + 140 + 105 + 84 + 60 = 599.",
+    "fingerprint": "mr x has some sum of money he wants to distribute this sum among five laborers in the ratio 12 13 14 15 17 what is the minimum amount he should have so that each laborer gets the amount in whole rupees",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00037",
+    "question_en": "There are three positive numbers. One-third of the average of these three numbers is 8 less than the largest number. The average of the smallest number and the second smallest number is 8. What is the largest number?",
+    "question_hi": "तीन धनात्मक संख्याएँ हैं । इन तीनों संख्याओं के औसत का एक-तिहाई, सबसे बड़ी संख्या से 8 कम है । सबसे छोटी संख्या और दूसरी सबसे छोटी संख्या का औसत 8 है । सबसे बड़ी संख्या क्या है ?",
+    "options_en": [
+      "9",
+      "10",
+      "11",
+      "14"
+    ],
+    "options_hi": [
+      "9",
+      "10",
+      "11",
+      "14"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "maths",
+    "topic": "Average",
+    "difficulty": "hard",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Let numbers be x, y, z (x <= y <= z). Average of x and y is 8, so x+y=16. Average of three is (16+z)/3. One third of this is (16+z)/9. So (16+z)/9 = z - 8. 16+z = 9z - 72. 8z = 88 => z = 11.",
+    "fingerprint": "there are three positive numbers onethird of the average of these three numbers is 8 less than the largest number the average of the smallest number and the second smallest number is 8 what is the largest number",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00038",
+    "question_en": "By selling a plot for ₹ 18,700, its owner incurs a loss of 15%. At what price should he sell the plot for a 15% profit?",
+    "question_hi": "एक प्लॉट को ₹ 18,700 में बेचने पर, इसके मालिक को 15% की हानि होती है । 15% लाभ के लिए वह प्लॉट को कितने में बेचे ?",
+    "options_en": [
+      "₹ 21,000",
+      "₹ 22,500",
+      "₹ 25,300",
+      "₹ 25,800"
+    ],
+    "options_hi": [
+      "₹ 21,000",
+      "₹ 22,500",
+      "₹ 25,300",
+      "₹ 25,800"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "maths",
+    "topic": "Profit and Loss",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Selling price = 18700 (85% of CP). CP = 18700 / 0.85 = 22000. For 15% profit, SP = 22000 * 1.15 = 25300.",
+    "fingerprint": "by selling a plot for 18700 its owner incurs a loss of 15 at what price should he sell the plot for a 15 profit",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00039",
+    "question_en": "If an article is sold at a 20% profit, then which of the following is the ratio of its cost price and selling price?",
+    "question_hi": "यदि एक वस्तु 20% लाभ पर बेची गई, तो निम्न में से कौन-सा एक इसके क्रय मूल्य और विक्रय मूल्य में अनुपात है ?",
+    "options_en": [
+      "5: 11",
+      "5:6",
+      "6:5",
+      "11:5"
+    ],
+    "options_hi": [
+      "5: 11",
+      "5:6",
+      "6:5",
+      "11:5"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "maths",
+    "topic": "Profit and Loss",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Let cost price be 100. Since profit is 20%, selling price is 120. Ratio of CP to SP = 100:120 = 5:6.",
+    "fingerprint": "if an article is sold at a 20 profit then which of the following is the ratio of its cost price and selling price",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00040",
+    "question_en": "A started a business by investing ₹ 38,000. After 5 months, B also joined this business by investing a capital of ₹ 55,000. At the end of the year, there was a total profit of ₹ 22,000. Which of the following amounts is approximately equal to the difference between the profits of A and B?",
+    "question_hi": "A ने ₹ 38,000 लगा कर व्यापार आरम्भ किया । 5 माह के बाद ₹ 55,000 की पूँजी लगा कर B ने भी इस व्यापार में प्रवेश किया । वर्ष के अंत में ₹ 22,000 का कुल लाभ हुआ । निम्न में से कौन-सी राशि A और B के लाभ के लगभग अन्तर के समान है ?",
+    "options_en": [
+      "₹ 1,007",
+      "₹ 1,192",
+      "₹ 1,857",
+      "₹ 1,928"
+    ],
+    "options_hi": [
+      "₹ 1,007",
+      "₹ 1,192",
+      "₹ 1,857",
+      "₹ 1,928"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "maths",
+    "topic": "Partnership",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Investment ratio = (38000 * 12) : (55000 * 7) = 456 : 385. Total = 841 parts = 22000. Difference = 71 parts = 22000 * (71 / 841) ≈ 1857.",
+    "fingerprint": "a started a business by investing 38000 after 5 months b also joined this business by investing a capital of 55000 at the end of the year there was a total profit of 22000 which of the following amounts is approximately equal to the difference between the profits of a and b",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00041",
+    "question_en": "The cost of a solid cylinder of radius 14 m and height 3.5 m, when the metal used in it costs ₹ 50 per cubic meter, is:",
+    "question_hi": "14 मी. त्रिज्या तथा 3.5 मी. ऊँचाई के एक ठोस बेलन का मूल्य, जबकि इसमें प्रयुक्त धातु का मूल्य र 50 प्रति घन मी. है, है :",
+    "options_en": [
+      "₹ 1,00,208",
+      "₹ 1,07,800",
+      "₹ 1,08,000",
+      "₹ 1,09,800"
+    ],
+    "options_hi": [
+      "₹ 1,00,208",
+      "₹ 1,07,800",
+      "₹ 1,08,000",
+      "₹ 1,09,800"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "maths",
+    "topic": "Mensuration",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Volume = πr^2h = (22/7) * 14 * 14 * 3.5 = 22 * 2 * 14 * 3.5 = 2156 cubic meters. Cost = 2156 * 50 = 107800.",
+    "fingerprint": "the cost of a solid cylinder of radius 14 m and height 35 m when the metal used in it costs 50 per cubic meter is",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00042",
+    "question_en": "Two types of tea costing ₹ 126 per kg and ₹ 135 per kg are mixed with a third type in the ratio 1 : 1 : 2. If the mixture is worth ₹ 153 per kg, then the price of the third type of tea per kg is:",
+    "question_hi": "₹ 126 प्रति किलोग्राम तथा ₹ 135 प्रति किलोग्राम की चाय की प्रकार को एक तीसरी प्रकार की चाय में 1: 1 : 2 के अनुपात में मिलाया गया । यदि मिश्रण का मूल्य ₹ 153 प्रति किलोग्राम है, तो तीसरी प्रकार की चाय का प्रति किलोग्राम मूल्य",
+    "options_en": [
+      "₹ 169.50",
+      "₹ 170.00",
+      "₹ 175.50",
+      "₹ 180.00"
+    ],
+    "options_hi": [
+      "₹ 169.50",
+      "₹ 170.00",
+      "₹ 175.50",
+      "₹ 180.00"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "maths",
+    "topic": "Mixture and Alligation",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Let third type cost x. Total cost of 1+1+2 = 4 parts is 4 * 153 = 612. So, 126 + 135 + 2x = 612 => 261 + 2x = 612 => 2x = 351 => x = 175.5.",
+    "fingerprint": "two types of tea costing 126 per kg and 135 per kg are mixed with a third type in the ratio 1  1  2 if the mixture is worth 153 per kg then the price of the third type of tea per kg is",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00043",
+    "question_en": "A man and a boy together can do a digging work in 40 days, while the ratio of their digging speed is 8 : 5. If the boy alone is put to dig, in how many days will he be able to complete this work?",
+    "question_hi": "एक आदमी और एक लड़का मिल कर खुदाई का एक कार्य 40 दिन में कर सकते हैं जबकि उनकी खुदाई करने की गति का अनुपात 8 : 5 है । यदि लड़के को अकेले खुदाई के लिए लगाया जाए, तो वह इस कार्य को कितने दिनों में पूरा कर पाएगा ?",
+    "options_en": [
+      "52 days",
+      "68 days",
+      "80 days",
+      "104 days"
+    ],
+    "options_hi": [
+      "52 दिन",
+      "68 दिन",
+      "80 दिन",
+      "104 दिन"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "maths",
+    "topic": "Time and Work",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Total efficiency = 8 + 5 = 13 units/day. Total work = 13 * 40 = 520 units. Time taken by boy alone = 520 / 5 = 104 days.",
+    "fingerprint": "a man and a boy together can do a digging work in 40 days while the ratio of their digging speed is 8  5 if the boy alone is put to dig in how many days will he be able to complete this work",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00044",
+    "question_en": "A sum of money doubles itself in 7 years at simple interest. In how many years will it become four times?",
+    "question_hi": "एक धनराशि साधारण ब्याज पर 7 वर्षों में दुगुनी हो जाती है। वह कितने वर्षों में चार गुनी हो जाएगी।",
+    "options_en": [
+      "18 years",
+      "21 years",
+      "38 years",
+      "42 years"
+    ],
+    "options_hi": [
+      "18 वर्ष",
+      "21 वर्ष",
+      "38 वर्ष",
+      "42 वर्ष"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "maths",
+    "topic": "Simple Interest",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "For money to double, interest = Principal, which takes 7 years. To become four times, interest must be 3 times Principal. Thus, 3 * 7 = 21 years.",
+    "fingerprint": "a sum of money doubles itself in 7 years at simple interest in how many years will it become four times",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00045",
+    "question_en": "Tourism as an industry also contributes to our country's:",
+    "question_hi": "Tourism as an industry also contributes to our country’s :",
+    "options_en": [
+      "population and employment.",
+      "agriculture and religion.",
+      "education and employment.",
+      "religion and statistics."
+    ],
+    "options_hi": [
+      "population and employment.",
+      "agriculture and religion.",
+      "education and employment.",
+      "religion and statistics."
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "english",
+    "topic": "Reading Comprehension",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "According to the passage, tourism contributes to educational development and generates employment.",
+    "fingerprint": "tourism as an industry also contributes to our countrys",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00046",
+    "question_en": "Besides the world's oldest civilizations, India is also the world's ____ largest country.",
+    "question_hi": "Besides the world’s oldest civilizations, India is also the world’s ____ largest country.",
+    "options_en": [
+      "third",
+      "fifth",
+      "tenth",
+      "seventh"
+    ],
+    "options_hi": [
+      "third",
+      "fifth",
+      "tenth",
+      "seventh"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "english",
+    "topic": "Reading Comprehension",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The passage clearly states that India is the world's seventh largest country.",
+    "fingerprint": "besides the worlds oldest civilizations india is also the worlds largest country",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00047",
+    "question_en": "Find out a word from the above passage which means 'a country's history, traditions and culture etc.'",
+    "question_hi": "Find out a word from the above passage which means “a country’s history, traditions and culture etc.",
+    "options_en": [
+      "identity",
+      "heritage",
+      "pristine",
+      "attractions"
+    ],
+    "options_hi": [
+      "identity",
+      "heritage",
+      "pristine",
+      "attractions"
+    ],
+    "answer_letter": "B",
+    "answer_index": 1,
+    "subject": "english",
+    "topic": "Reading Comprehension",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Heritage refers to the features belonging to the culture of a particular society, such as traditions, languages, or buildings, which come from the past.",
+    "fingerprint": "find out a word from the above passage which means a countrys history traditions and culture etc",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00048",
+    "question_en": "Choose the word which is opposite in meaning to the word underlined. 'Earthquakes are frequent in Japan.'",
+    "question_hi": "Choose the word which is opposite in meaning to the word underlined. “Earthquakes are frequent in Japan.”",
+    "options_en": [
+      "extinct",
+      "unusual",
+      "few",
+      "rare"
+    ],
+    "options_hi": [
+      "extinct",
+      "unusual",
+      "few",
+      "rare"
+    ],
+    "answer_letter": "D",
+    "answer_index": 3,
+    "subject": "english",
+    "topic": "Antonyms",
+    "difficulty": "easy",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "The opposite of frequent (occurring often) is rare (not occurring very often).",
+    "fingerprint": "choose the word which is opposite in meaning to the word underlined earthquakes are frequent in japan",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00049",
+    "question_en": "Choose the word which is opposite in meaning to the word underlined. 'She is slender in figure.'",
+    "question_hi": "Choose the word which is opposite in meaning to the word underlined. “She is slender in figure.”",
+    "options_en": [
+      "strong",
+      "frail",
+      "stout",
+      "slim"
+    ],
+    "options_hi": [
+      "strong",
+      "frail",
+      "stout",
+      "slim"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "english",
+    "topic": "Antonyms",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "Slender means gracefully thin. Stout means somewhat fat or of heavy build.",
+    "fingerprint": "choose the word which is opposite in meaning to the word underlined she is slender in figure",
+    "source_model": "claude-3.5-sonnet"
+  },
+  {
+    "id": "PYQ-CC22-00050",
+    "question_en": "Choose the alternative which best expresses the meaning of the underlined idiom. Her speech is always full of tall stories.",
+    "question_hi": "Choose the alternative which best expresses the meaning of the underlined idiom. Her speech is always full of tall stories.",
+    "options_en": [
+      "long tales",
+      "heroic stories",
+      "exaggerated tales",
+      "realistic stories"
+    ],
+    "options_hi": [
+      "long tales",
+      "heroic stories",
+      "exaggerated tales",
+      "realistic stories"
+    ],
+    "answer_letter": "C",
+    "answer_index": 2,
+    "subject": "english",
+    "topic": "Idioms and Phrases",
+    "difficulty": "medium",
+    "type": "pyq",
+    "source": "Haryana CET Group C 2022 PYQ",
+    "exam": "CET Group C 2022",
+    "date_shift": "5 Nov 2022 Shift 1",
+    "explanation": "A 'tall story' is a story that is difficult to believe because it is highly exaggerated.",
+    "fingerprint": "choose the alternative which best expresses the meaning of the underlined idiom her speech is always full of tall stories",
+    "source_model": "claude-3.5-sonnet"
+  }
+]
